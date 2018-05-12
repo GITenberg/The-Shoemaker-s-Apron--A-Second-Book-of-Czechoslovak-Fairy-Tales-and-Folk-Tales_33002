@@ -1,0 +1,54 @@
+_repo: The-Shoemaker-s-Apron--A-Second-Book-of-Czechoslovak-Fairy-Tales-and-Folk-Tales_33002
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Matulka, Jan
+    birthdate: 1890
+    deathdate: 1972
+    gutenberg_agent_id: '35732'
+    url: http://www.gutenberg.org/2009/agents/35732
+    wikipedia: http://en.wikipedia.org/wiki/Jan_Matulka
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fillmore, Parker
+    alias: Fillmore, Parker H. (Parker Hoysted)
+    birthdate: 1878
+    deathdate: 1944
+    gutenberg_agent_id: '8828'
+    url: http://www.gutenberg.org/2009/agents/8828
+description: ''
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Czechoslovakia'
+tableOfContents: 'The twelve months: the story of Marushka and the wicked Holena --
+  Zlatovlaska the golden-haired: the story of Yirik and the snake -- The shepherd''s
+  nosegay: the story of the princess who learned to say "Please" -- Vitazko the victorious:
+  the story of a hero whose mother loved a dragon -- Five nursery tales: Kuratko the
+  Terrible, the story of an ungrateful chick. Smolicheck, the story of a little boy
+  who opened the door. Budulinek, the story of another little boy who opened the door.
+  The dear little hen, the story of a rooster that cheated. The disobedient rooster,
+  the story of another little hen -- The nickerman''s wife: the story of Lidushka
+  and the imprisoned doves -- Batcha and the dragon: the story of a shepherd who slept
+  all winter -- Clever Manka: the story of a girl who knew what to say -- The blacksmith''s
+  stool: the story of a man who found that death was necessary -- A gullible world:
+  the story of a man who didn''t beat his wife -- The candles of life: the story of
+  a child for whom death stood godmother -- The devil''s gifts: the story of a man
+  whom the devil befriended -- Gentle Dora: the story of a devil who married a scold
+  -- The devil''s match: the story of a farmer who remembered what his grandmother
+  told him -- The devil''s little brother-in-law: the story of a youth who couldn''t
+  find work -- The shoemaker''s apron: the story of the man who sits near the golden
+  gate.'
+title: 'The Shoemaker''s Apron: A Second Book of Czechoslovak Fairy Tales and Folk
+  Tales'
+url: http://www.gutenberg.org/ebooks/33002
